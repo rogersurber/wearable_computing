@@ -1,20 +1,20 @@
 #Code Book
-(Getting and Cleaning Data Cours Project for Wearable Devices)
+(Getting and Cleaning Data Course Project for Wearable Devices)
 
 ##Variables
 
 ### Factor Variables
 - Subject: integer ID of the subject (participant, no names are provided)
 - Activity: character Name of the activity
- 1. WALKING
- 2. WALKING_UPSTAIRS
- 3. WALKING_DOWNSTAIRS
- 4. SITTING
- 5. STANDING
- 6. LAYING
+1. WALKING
+2. WALKING_UPSTAIRS
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING
  
 ### Measure Variables
-The prefix "Mean" is for the the calculated mean grouped by the factor variables Subject and Activity. It describes that all of these measures are means of the indicated names.
+The prefix "Mean" is for the the calculated mean grouped by the factor variables Subject and Activity. It describes that all of these measures are means of the indicated variables.
 
 - Time domain, Body Accelerometer Mean on X, Y and Z axis
  - Mean-Time-BodyAcceleration-Mean-X 
