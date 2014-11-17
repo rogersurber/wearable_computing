@@ -21,10 +21,11 @@ Time domain, Body Accelerometer Mean on X, Y and Z axis
 - Mean-Time-BodyAcceleration-Mean-Y
 - Mean-Time-BodyAcceleration-Mean-Z
 
-Time domain, Body Accelerometer Standard Deviation on X, Y and Z axis
-- Mean-Time-BodyAcceleration-StandardDeviation-X
-- Mean-Time-BodyAcceleration-StandardDeviation-Y
-- Mean-Time-BodyAcceleration-StandardDeviation-Z     
+
+- Time domain, Body Accelerometer Standard Deviation on X, Y and Z axis
+ - Mean-Time-BodyAcceleration-StandardDeviation-X
+ - Mean-Time-BodyAcceleration-StandardDeviation-Y
+ - Mean-Time-BodyAcceleration-StandardDeviation-Z     
 
 - Time domain, Gravity Accelerometer Standard Deviation on X, Y and Z axis
 Mean-Time-GravityAcceleration-Mean-X
