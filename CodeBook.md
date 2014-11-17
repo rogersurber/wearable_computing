@@ -6,6 +6,7 @@
 ### Factor Variables
 - Subject: integer ID of the subject (participant, no names are provided)
 - Activity: character Name of the activity
+
  1. WALKING
  2. WALKING_UPSTAIRS
  3. WALKING_DOWNSTAIRS
