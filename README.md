@@ -13,8 +13,8 @@
 ###Comments
 1. Download the Data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 2. Unzip the data, folder "UCI HAR Dataset" is created
-3. use the correct working directory
+3. Use the correct working directory: place file "run_analysis.R" and folder "UCI HAR Dataset" directly in the working directory
 4. Libraries used: plyr, data.table
-5. run source("run_analysis.R")
+5. Run source("run_analysis.R")
 
 
