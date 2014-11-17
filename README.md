@@ -10,6 +10,9 @@
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 6. Write the data from Step 5 to a text file 
 
+Further details can be found as comments in the file run_analysis.R.
+
+
 ###Comments
 1. Download the Data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 2. Unzip the data, folder "UCI HAR Dataset" is created
