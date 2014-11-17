@@ -71,8 +71,8 @@ setnames(tidy_table, names(tidy_table), gsub("Acc", "Acceleration", names(tidy_t
 ## 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 tidy_mean <- ddply(tidy_table, .(Subject, Activity), colwise(mean))
-setnames(tidy_mean, names(tidy_mean), gsub("^Time", "AVG-Time", names(tidy_mean)))
-setnames(tidy_mean, names(tidy_mean), gsub("^Frequency", "AVG-Frequency", names(tidy_mean)))
+setnames(tidy_mean, names(tidy_mean), gsub("^Time", "Mean-Time", names(tidy_mean)))
+setnames(tidy_mean, names(tidy_mean), gsub("^Frequency", "Mean-Frequency", names(tidy_mean)))
 
 
 ## write tidy_mean into txt-file
